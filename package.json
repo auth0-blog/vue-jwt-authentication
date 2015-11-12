@@ -1,0 +1,30 @@
+{
+  "name": "vue-jwt-auth example",
+  "version": "1.0.0",
+  "description": "An of how to do JWT Authentication with Vue.js",
+  "scripts": {
+    "dev": "webpack-dev-server --inline --hot"
+  },
+  "author": "ryanchenkie",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.1.2",
+    "babel-loader": "^6.1.0",
+    "babel-plugin-transform-runtime": "^6.1.2",
+    "babel-preset-es2015": "^6.1.2",
+    "babel-runtime": "^6.0.14",
+    "css-loader": "^0.21.0",
+    "style-loader": "^0.13.0",
+    "vue-hot-reload-api": "^1.2.1",
+    "vue-html-loader": "^1.0.0",
+    "vue-loader": "^7.0.1",
+    "webpack": "^1.12.3",
+    "webpack-dev-server": "^1.12.1"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "vue-resource": "^0.1.17",
+    "vue-router": "^0.7.5",
+    "vue": "^1.0.7"
+  }
+}
