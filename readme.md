@@ -14,6 +14,12 @@ cd ..
 npm install
 ```
 
+Once the application scripts are in place, you can serve it and watch for changes with **hot reloading**.
+
+```bash
+webpack-dev-server --inline --hot
+```
+
 ## Important Snippets
 
 The entry point for the app is at `src/index.js`. Here we import everything we need and set up routing.
