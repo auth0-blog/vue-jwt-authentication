@@ -1,5 +1,5 @@
 {
-  "name": "vue-jwt-auth example",
+  "name": "vue-jwt-auth-example",
   "version": "1.0.0",
   "description": "An of how to do JWT Authentication with Vue.js",
   "scripts": {
