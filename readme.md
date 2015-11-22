@@ -14,10 +14,16 @@ cd ..
 npm install
 ```
 
-Once the application scripts are in place, you can serve it and watch for changes with **hot reloading**.
+Once the application scripts are in place, start the server (which will provide the quotes) using:
 
 ```bash
-webpack-dev-server --inline --hot
+node server/server.js
+```
+
+Afterwards, open a second Terminal window and run the [webpack development server](http://webpack.github.io/docs/webpack-dev-server.html). It will watch for changes with **hot reloading**:
+
+```bash
+npm run dev
 ```
 
 ## Important Snippets
