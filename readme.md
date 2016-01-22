@@ -258,10 +258,6 @@ Finally, we can get protected Chuck Norris quotes with our `SecretQuote` compone
   </script>
 ```
 
-## License
-
-MIT
-
 ## What is Auth0?
 
 Auth0 helps you to:
